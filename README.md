@@ -22,3 +22,9 @@ Install dependencies with:
 
 ```bash
 pip install google-generativeai gTTS playsound
+
+⚙️ Setup
+
+Clone the repository or copy the code into a Python file (assistant.py).
+
+Get a Google AI API Key from Google AI Studio.
